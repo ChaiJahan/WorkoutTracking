@@ -63,7 +63,7 @@ Did regular lateral raises after reps above.
 | Set | Reps  | Weight |
 | :-  | :---: | :----: |
 | 1   |  8    | 95     |
-| 2   |  8    | 95?    |
+| 2   |  8    | 95     |
 | 3   |  8    | 95?    |
 | 4   |  8    | 95?    |
 
