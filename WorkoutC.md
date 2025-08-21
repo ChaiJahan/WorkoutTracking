@@ -1,19 +1,21 @@
 # This is the second workout of the week
 
+*Superset the following 2 exercises*
+
 ## DB Lateral Raise (Super Rom)
 4 sets
 ~10 reps
 
 | Set | Reps  | Weight |
 | :-  | :---: | :----: |
-| 1   |  10   | ?    |
-| 2   |  10   | ?    |
-| 3   |  10   | ?    |
+| 1   |  10   | 15    |
+| 2   |  7    | 15    |
+| 3   |  10   | 10   |
 | 4   |  10   | ?    |
 
 ##### Notes
+Did regular lateral raises after reps above.
 
-*Superset the following 2 exercises*
 ## EZ-Bar Curl
 4 Sets
 10 Reps
