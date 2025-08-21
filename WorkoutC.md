@@ -35,7 +35,7 @@ Did regular lateral raises after reps above.
 
 | Set | Reps  | Weight |
 | :-  | :---: | :----: |
-| 1   |  10   | 20?    |
+| 1   |  11   | 20     |
 | 2   |  10   | 20?    |
 | 3   |  10   | 20?    |
 | 4   |  10   | 20?    |
