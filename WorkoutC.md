@@ -28,7 +28,6 @@ Did regular lateral raises after reps above.
 | 4   |  5    | 60     |
 
 ##### Notes
-- Myo-rep match on every set
 
 ## Single Arm DB French Press
 4 Sets
