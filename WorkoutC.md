@@ -37,10 +37,11 @@ Did regular lateral raises after reps above.
 | :-  | :---: | :----: |
 | 1   |  11   | 20     |
 | 2   |  9    | 20    |
-| 3   |  10   | 20?    |
+| 3   |  7    | 20    |
 | 4   |  10   | 20?    |
 
 ##### Notes
+- don't lock out all the way, helps keep wrist comfortable 
 
 ## Lat Pull Down (V-handle)
 4 sets
