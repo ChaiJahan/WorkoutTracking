@@ -1,4 +1,4 @@
-# This is the second workout of the week
+# This is the third workout of the week
 
 *Superset the following 2 exercises*
 
