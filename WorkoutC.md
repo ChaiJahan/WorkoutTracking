@@ -10,8 +10,8 @@
 | :-  | :---: | :----: |
 | 1   |  10   | 15    |
 | 2   |  7    | 15    |
-| 3   |  10   | 8    |
-| 4   |  10   | ?    |
+| 3   |  8    | 10    |
+| 4   |  8    | 10    |
 
 ##### Notes
 Did regular lateral raises after reps above.
@@ -25,7 +25,7 @@ Did regular lateral raises after reps above.
 | 1   |  8    | 70     |
 | 2   |  5    | 70     |
 | 3   |  9    | 60     |
-| 4   |  10   | 60?     |
+| 4   |  5    | 60     |
 
 ##### Notes
 - Myo-rep match on every set
