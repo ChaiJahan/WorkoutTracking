@@ -53,7 +53,8 @@ Did regular lateral raises after reps above.
 | 2   |  8    | 140   |
 | 3.1   |  6  | 120  |
 | 3.2   |  5  | 100  |
-| 4   |  8    | 140?   |
+| 4.1   |  5    | 120   |
+| 4.2   |  4   | 120   |
 
 ## SSB Good Mornings
 4 sets
