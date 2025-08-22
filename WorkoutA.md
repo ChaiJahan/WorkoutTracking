@@ -2,18 +2,17 @@
 
 ## Incline Bench Press
 4 sets
-~10 reps
+10 reps
 
 | Set | Reps  | Weight |
 | :-  | :---: | :----: |
-| 1   |  10   | 135    |
+| 1   |  12   | 135    |
 | 2   |  10   | 135    |
 | 3   |  10   | 135    |
 | 4   |  10   | 115    |
 
 ##### Notes
 - Seat height: 4
-- Third set was myo-rep match. Got ~7 reps, stopped, waited, did 3 more reps. Then dropped weight.
 
 
 ## Assisted Pull Ups
