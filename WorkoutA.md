@@ -43,12 +43,10 @@ Set 3: 85 lbs assistance, 5 reps
 - Set 2 got 8, my rep match 2
 
 ## DB Incline Curls
-4 sets
-~10 reps
 
 | Set | Reps  | Weight |
 | :-  | :---: | :----: |
-| 1   |  10   | 20     |
+| 1   |  8    | 25     |
 | 2   |  10   | 20     |
 | 3   |  10   | 20     |
 | 4   |  10   | 20     |
