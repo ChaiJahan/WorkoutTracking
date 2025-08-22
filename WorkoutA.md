@@ -36,8 +36,8 @@ Set 3: 85 lbs assistance, 5 reps
 | 1   |  9    | 120    |
 | 2   |  10   | 100    |
 | 3   |  10   | 100    |
-| 4.1 |  8    | 100    |
-| 4.2 |  5    | 85     |
+| 4   |  10   | 100    |
+
 
 ##### Notes
 - Set 2 got 8, my rep match 2
