@@ -63,7 +63,8 @@ Set 3: 85 lbs assistance, 5 reps
 | :-  | :---: | :----: |
 | 1   |  10   | 20     |
 | 2   |  12   | 15     |
-| 3   |  10   | 20     |
+| 3   |  10   | 15     |
 | 4   |  10   | 15     |
 
 ##### Notes
+- For the eccentric, keep it slower at the top, that's where there is the most tension 
