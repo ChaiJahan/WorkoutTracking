@@ -40,9 +40,7 @@ Set 3: 85 lbs assistance, 5 reps
 | 4.2 |  5    | 85     |
 
 ##### Notes
-- I forgot exactly what this was, but this is approximately what I did.
-
-- Did dropsets for the last set. Might have done more that I listed.
+- Set 2 got 8, my rep match 2
 
 ## DB Incline Curls
 4 sets
