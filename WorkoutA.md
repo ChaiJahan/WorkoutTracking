@@ -21,8 +21,9 @@
 4 Sets
 AMRAP
 
+Set 1: 70 lbs assistance, 8 reps
+
 ##### Notes
-Basically played around with the assistance. Tried to get at least 4 reps.
 
 ## Leaning back Cable Rows
 4 Sets
