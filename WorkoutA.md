@@ -2,26 +2,30 @@
 
 ## Incline Bench Press
 4 sets
-~10 reps
+10 reps
 
 | Set | Reps  | Weight |
 | :-  | :---: | :----: |
-| 1   |  10   | 135    |
+| 1   |  12   | 135    |
 | 2   |  10   | 135    |
 | 3   |  10   | 135    |
-| 4   |  10   | 115    |
+| 4   |  10   | 135    |
 
 ##### Notes
 - Seat height: 4
-- Third set was myo-rep match. Got ~7 reps, stopped, waited, did 3 more reps. Then dropped weight.
+- Set 3, got 8 reps, then myo rep match 2
+- Set 4, got 7 reps, then myo rep match 3
 
 
 ## Assisted Pull Ups
 4 Sets
 AMRAP
 
+Set 1: 70 lbs assistance, 8 reps
+Set 2: 70 lbs assistance, 5 reps
+Set 3: 85 lbs assistance, 5 reps
+
 ##### Notes
-Basically played around with the assistance. Tried to get at least 4 reps.
 
 ## Leaning back Cable Rows
 4 Sets
@@ -29,27 +33,24 @@ Basically played around with the assistance. Tried to get at least 4 reps.
 
 | Set | Reps  | Weight |
 | :-  | :---: | :----: |
-| 1   |  10   | 120    |
-| 2   |  10   | 120    |
+| 1   |  9    | 120    |
+| 2   |  10   | 100    |
 | 3   |  10   | 100    |
-| 4.1 |  8    | 100    |
-| 4.2 |  5    | 85     |
+| 4   |  10   | 100    |
+
 
 ##### Notes
-- I forgot exactly what this was, but this is approximately what I did.
-
-- Did dropsets for the last set. Might have done more that I listed.
+- Set 2 got 8, my rep match 2
 
 ## DB Incline Curls
-4 sets
-~10 reps
 
 | Set | Reps  | Weight |
 | :-  | :---: | :----: |
-| 1   |  10   | 20     |
-| 2   |  10   | 20     |
-| 3   |  10   | 20     |
-| 4   |  10   | 20     |
+| 1   |  8    | 25     |
+| 2.1 |  5    | 25     |
+| 2.2 |  5    | 20     |
+| 3   |  8    | 20     |
+| 4   |  7    | 20     |
 
 ##### Notes
 45 degree angle on bench
@@ -61,8 +62,9 @@ Basically played around with the assistance. Tried to get at least 4 reps.
 | Set | Reps  | Weight |
 | :-  | :---: | :----: |
 | 1   |  10   | 20     |
-| 2   |  10   | 20     |
-| 3   |  10   | 20     |
+| 2   |  12   | 15     |
+| 3   |  10   | 15     |
 | 4   |  10   | 15     |
 
 ##### Notes
+- For the eccentric, keep it slower at the top, that's where there is the most tension 
