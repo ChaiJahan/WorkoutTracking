@@ -49,7 +49,7 @@
 | 4   |  8    | 25     |
 
 ##### Notes
-- I forgot exactly what this was, but this is approximately what I did.
+
 
 ## Skullcrushers (behind the head)
 4 sets
