@@ -14,6 +14,7 @@
 
 ##### Notes
 - Allowed to set at bottom to rebrace
+- Set 3, did 9, then 1 myorep match
 
 
 ## Anterior Delt Press
