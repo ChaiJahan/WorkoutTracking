@@ -23,13 +23,13 @@
 
 | Set | Reps  | Weight |
 | :-  | :---: | :----: |
-| 1   |  10   | 95     |
+| 1   |  10   | 115    |
 | 2   |  10   | 95     |
 | 3   |  10   | 95     |
 | 4   |  10   | 95     |
 
 ##### Notes
-- Myo-rep match on every set
+- Started bracing, makes **huge** difference
 
 *Super set the following 2 exercises*
 ## Hammer Curls
