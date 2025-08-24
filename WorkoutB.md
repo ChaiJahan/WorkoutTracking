@@ -13,9 +13,7 @@
 | 4.2 |  5    | 95     |
 
 ##### Notes
-- Seat height: 4
-- Third set was myo-rep match. Got ~8 reps, stopped, waited, did 2 more reps. Then dropped weight.
-- Fourth set was a drop set. Finished set and then did a drop set.
+- Allowed to set at bottom to rebrace
 
 
 ## Anterior Delt Press
