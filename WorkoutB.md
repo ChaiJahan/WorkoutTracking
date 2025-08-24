@@ -10,7 +10,7 @@
 | 2   |  10   | 155    |
 | 3   |  10   | 155    |
 | 4.1 |  10   | 135    |
-| 4.2 |  5    | 95     |
+| 4.2 |  7    | 95     |
 
 ##### Notes
 - Allowed to set at bottom to rebrace
