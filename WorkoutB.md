@@ -62,7 +62,7 @@
 | Set | Reps  | Weight |
 | :-  | :---: | :----: |
 | 1   |  11   | 10     |
-| 2   |  10   | 10     |
+| 2   |  7    | 10     |
 
 ##### Notes
 - Did regular lateral raises after
@@ -78,4 +78,4 @@
 | 3   |  8    | 90     |
 
 ##### Notes
-
+- Skipped because felt super dead
