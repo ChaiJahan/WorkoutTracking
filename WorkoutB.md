@@ -37,30 +37,23 @@
 
 *Super set the following 2 exercises*
 ## Hammer Curls
-4 Sets
-~10 reps
 
 | Set | Reps  | Weight |
 | :-  | :---: | :----: |
 | 1   |  10   | 30     |
 | 2   |  10   | 30     |
-| 3.1 |  7    | 30     |
-| 3.2 |  3    | 25     |
-| 4   |  8    | 25     |
+| 3   |  8    | 30     |
 
 ##### Notes
-
+- Only did 3 sets because I feel super tired
 
 ## Skullcrushers (behind the head)
-4 sets
-~10 reps
 
 | Set | Reps  | Weight |
 | :-  | :---: | :----: |
 | 1   |  10   | 50     |
 | 2   |  8    | 50     |
 | 3   |  8    | 50     |
-| 4   |  8    | 40     |
 
 ## DB Lateral Raise (Pulsing, with 1/3 more range then horizontal)
 4 sets
