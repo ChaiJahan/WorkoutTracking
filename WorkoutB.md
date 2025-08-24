@@ -61,10 +61,11 @@
 
 | Set | Reps  | Weight |
 | :-  | :---: | :----: |
-| 1   |  10   | 10     |
+| 1   |  11   | 10     |
 | 2   |  10   | 10     |
-| 3   |  8    | 10     |
-| 4   |  8    | 10     |
+
+##### Notes
+- Did regular lateral raises after
 
 ## Hack Squats
 3 sets
