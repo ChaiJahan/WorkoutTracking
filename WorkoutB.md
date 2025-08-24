@@ -6,16 +6,15 @@
 
 | Set | Reps  | Weight |
 | :-  | :---: | :----: |
-| 1   |  10   | 155    |
+| 1   |  11   | 155    |
 | 2   |  10   | 155    |
 | 3   |  10   | 155    |
 | 4.1 |  10   | 135    |
-| 4.2 |  5    | 95     |
+| 4.2 |  7    | 95     |
 
 ##### Notes
-- Seat height: 4
-- Third set was myo-rep match. Got ~8 reps, stopped, waited, did 2 more reps. Then dropped weight.
-- Fourth set was a drop set. Finished set and then did a drop set.
+- Allowed to set at bottom to rebrace
+- Set 3, did 9, then 1 myorep match
 
 
 ## Anterior Delt Press
@@ -24,40 +23,37 @@
 
 | Set | Reps  | Weight |
 | :-  | :---: | :----: |
-| 1   |  10   | 95     |
-| 2   |  10   | 95     |
-| 3   |  10   | 95     |
-| 4   |  10   | 95     |
+| 1   |  10   | 115    |
+| 2   |  10   | 115    |
+| 3   |  10   | 115    |
+| 4   |  10   | 100    |
 
 ##### Notes
-- Myo-rep match on every set
+- Started bracing, makes **huge** difference.
+  - makes it feel more like incline. Make sure to control eccentric
+- Set 2, did 9, myorep match 1
+- Set 3, did 6, myorep match 4
+- Set 4, did 8, myorep match 2
 
 *Super set the following 2 exercises*
 ## Hammer Curls
-4 Sets
-~10 reps
 
 | Set | Reps  | Weight |
 | :-  | :---: | :----: |
 | 1   |  10   | 30     |
 | 2   |  10   | 30     |
-| 3.1 |  7    | 30     |
-| 3.2 |  3    | 25     |
-| 4   |  8    | 25     |
+| 3   |  8    | 30     |
 
 ##### Notes
-- I forgot exactly what this was, but this is approximately what I did.
+- Only did 3 sets because I feel super tired
 
 ## Skullcrushers (behind the head)
-4 sets
-~10 reps
 
 | Set | Reps  | Weight |
 | :-  | :---: | :----: |
 | 1   |  10   | 50     |
-| 2   |  10   | 50     |
+| 2   |  8    | 50     |
 | 3   |  8    | 50     |
-| 4   |  8    | 40     |
 
 ## DB Lateral Raise (Pulsing, with 1/3 more range then horizontal)
 4 sets
@@ -65,10 +61,11 @@
 
 | Set | Reps  | Weight |
 | :-  | :---: | :----: |
-| 1   |  10   | 10     |
-| 2   |  10   | 10     |
-| 3   |  8    | 10     |
-| 4   |  8    | 10     |
+| 1   |  11   | 10     |
+| 2   |  7    | 10     |
+
+##### Notes
+- Did regular lateral raises after
 
 ## Hack Squats
 3 sets
@@ -81,4 +78,4 @@
 | 3   |  8    | 90     |
 
 ##### Notes
-
+- Skipped because felt super dead
