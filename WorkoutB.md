@@ -24,12 +24,14 @@
 | Set | Reps  | Weight |
 | :-  | :---: | :----: |
 | 1   |  10   | 115    |
-| 2   |  10   | 95     |
+| 2   |  10   | 115    |
 | 3   |  10   | 95     |
 | 4   |  10   | 95     |
 
 ##### Notes
-- Started bracing, makes **huge** difference
+- Started bracing, makes **huge** difference.
+  - makes it feel more like incline. Make sure to control eccentric
+- Set 2, did 9, myorep match 1
 
 *Super set the following 2 exercises*
 ## Hammer Curls
