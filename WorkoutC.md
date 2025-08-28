@@ -53,9 +53,7 @@ Forgot exactly how many done for set 3, at least listed amount.
 | :-  | :---: | :----: |
 | 1   |  10   | 140   |
 | 2   |  8    | 140   |
-| 3.1   |  6  | 120  |
-| 3.2   |  5  | 100  |
-| 4.1   |  5    | 120   |
+| 3   |  7    | 140   |
 | 4.2   |  4   | 120   |
 
 ## SSB Good Mornings
