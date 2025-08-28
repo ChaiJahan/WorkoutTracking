@@ -26,7 +26,7 @@ Forgot exactly how many done for set 3, at least listed amount.
 | 1   |  8    | 70     |
 | 2   |  6    | 70     |
 | 3   |  7    | 60     |
-| 4   |  5    | 60     |
+| 4   |  6    | 60     |
 
 ##### Notes
 
