@@ -36,7 +36,7 @@ Forgot exactly how many done for set 3, at least listed amount.
 
 | Set | Reps  | Weight |
 | :-  | :---: | :----: |
-| 1   |  11   | 20     |
+| 1   |  12   | 20     |
 | 2   |  9    | 20    |
 | 3   |  7    | 20    |
 | 4   |  9    | 20    |
