@@ -39,11 +39,11 @@ Forgot exactly how many done for set 3, at least listed amount.
 | 1   |  12   | 20     |
 | 2   |  9    | 20    |
 | 3   |  8    | 20    |
-| 4   |  9    | 20    |
+| 4   |  8    | 20    |
 
 ##### Notes
 - right arm for some reason feels different and weaker than left arm
-- Set 2,3 left arm got listed reps, right arm got 1 less
+- Set 2,3,4 left arm got listed reps, right arm got 1 less
 
 ## Lat Pull Down (V-handle)
 4 sets
