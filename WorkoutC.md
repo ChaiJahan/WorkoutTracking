@@ -10,11 +10,12 @@
 | :-  | :---: | :----: |
 | 1   |  12   | 15    |
 | 2   |  8    | 15    |
-| 3   |  8    | 10    |
+| 3   |  10   | 10    |
 | 4   |  8    | 10    |
 
 ##### Notes
 Did regular lateral raises after reps above.
+Forgot exactly how many done for set 3, at least listed amount.
 
 ## EZ-Bar Curl
 4 Sets
@@ -24,7 +25,7 @@ Did regular lateral raises after reps above.
 | :-  | :---: | :----: |
 | 1   |  8    | 70     |
 | 2   |  6    | 70     |
-| 3   |  9    | 60     |
+| 3   |  7    | 60     |
 | 4   |  5    | 60     |
 
 ##### Notes
