@@ -42,7 +42,7 @@ Forgot exactly how many done for set 3, at least listed amount.
 | 4   |  9    | 20    |
 
 ##### Notes
-- don't lock out all the way, helps keep wrist comfortable 
+- right arm for some reason feels different and weaker than left arm
 
 ## Lat Pull Down (V-handle)
 4 sets
