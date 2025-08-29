@@ -7,14 +7,12 @@
 | Set | Reps  | Weight |
 | :-  | :---: | :----: |
 | 1   |  10   | 145    |
-| 2   |  10   | 135    |
+| 2   |  10   | 145    |
 | 3   |  10   | 135    |
 | 4   |  10   | 135    |
 
 ##### Notes
 - Seat height: 4
-- Set 3, got 8 reps, then myo rep match 2
-- Set 4, got 7 reps, then myo rep match 3
 
 
 ## Assisted Pull Ups
