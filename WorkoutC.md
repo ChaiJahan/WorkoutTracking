@@ -8,13 +8,14 @@
 
 | Set | Reps  | Weight |
 | :-  | :---: | :----: |
-| 1   |  10   | 15    |
-| 2   |  7    | 15    |
-| 3   |  8    | 10    |
+| 1   |  12   | 15    |
+| 2   |  8    | 15    |
+| 3   |  10   | 10    |
 | 4   |  8    | 10    |
 
 ##### Notes
 Did regular lateral raises after reps above.
+Forgot exactly how many done for set 3, at least listed amount.
 
 ## EZ-Bar Curl
 4 Sets
@@ -23,9 +24,9 @@ Did regular lateral raises after reps above.
 | Set | Reps  | Weight |
 | :-  | :---: | :----: |
 | 1   |  8    | 70     |
-| 2   |  5    | 70     |
-| 3   |  9    | 60     |
-| 4   |  5    | 60     |
+| 2   |  6    | 70     |
+| 3   |  7    | 60     |
+| 4   |  6    | 60     |
 
 ##### Notes
 
@@ -35,13 +36,14 @@ Did regular lateral raises after reps above.
 
 | Set | Reps  | Weight |
 | :-  | :---: | :----: |
-| 1   |  11   | 20     |
+| 1   |  12   | 20     |
 | 2   |  9    | 20    |
-| 3   |  7    | 20    |
-| 4   |  9    | 20    |
+| 3   |  8    | 20    |
+| 4   |  8    | 20    |
 
 ##### Notes
-- don't lock out all the way, helps keep wrist comfortable 
+- right arm for some reason feels different and weaker than left arm
+- Set 2,3,4 left arm got listed reps, right arm got 1 less
 
 ## Lat Pull Down (V-handle)
 4 sets
@@ -51,10 +53,8 @@ Did regular lateral raises after reps above.
 | :-  | :---: | :----: |
 | 1   |  10   | 140   |
 | 2   |  8    | 140   |
-| 3.1   |  6  | 120  |
-| 3.2   |  5  | 100  |
-| 4.1   |  5    | 120   |
-| 4.2   |  4   | 120   |
+| 3   |  7    | 140   |
+| 4   |  6    | 140   |
 
 ## SSB Good Mornings
 4 sets
@@ -66,3 +66,5 @@ Did regular lateral raises after reps above.
 | 2   |  8    | 95     |
 | 3   |  8    | 95     |
 
+#### Notes
+Skipped because I felt I need more rest and less fatigue.
