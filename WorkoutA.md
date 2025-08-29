@@ -32,14 +32,14 @@ AMRAP
 
 | Set | Reps  | Weight |
 | :-  | :---: | :----: |
-| 1   |  9    | 120    |
+| 1   |  6    | 140    |
 | 2   |  10   | 100    |
 | 3   |  10   | 100    |
 | 4   |  10   | 100    |
 
 
 ##### Notes
-- Set 2 got 8, my rep match 2
+- First set felt too heavy, got the reps but didn't have much control
 
 ## DB Incline Curls
 
