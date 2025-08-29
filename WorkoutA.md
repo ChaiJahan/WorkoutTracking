@@ -22,6 +22,7 @@ AMRAP
 - Set 1: 70 lbs assistance, 8 reps
 - Set 2: 70 lbs assistance, 5 reps
 - Set 3: 70 lbs assistance, 5 reps
+- Set 4: 70 lbs assistance, 4 reps
 
 ##### Notes
 
