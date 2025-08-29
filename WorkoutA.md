@@ -13,6 +13,7 @@
 
 ##### Notes
 - Seat height: 4
+- Set 3, got 9, myp rep match 1
 
 
 ## Assisted Pull Ups
