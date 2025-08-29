@@ -66,3 +66,5 @@ Forgot exactly how many done for set 3, at least listed amount.
 | 2   |  8    | 95     |
 | 3   |  8    | 95     |
 
+#### Notes
+Skipped because I felt I need more rest and less fatigue.
