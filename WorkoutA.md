@@ -35,8 +35,8 @@ AMRAP
 | 1   |  6    | 140    |
 | 2   |  9    | 120    |
 | 3   |  9    | 120    |
-| 4   |  10   | 100    |
-
+| 4.1 |  5    | 120    |
+| 4.2 |  4   | 100    |
 
 ##### Notes
 - First set felt too heavy, got the reps but didn't have much control
