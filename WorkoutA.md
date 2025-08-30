@@ -64,7 +64,7 @@ AMRAP
 | 1   |  10   | 20     |
 | 2   |  16   | 15     |
 | 3   |  13   | 15     |
-| 4   |  10   | 15     |
+| 4   |  9    | 15     |
 
 ##### Notes
 - For the eccentric, keep it slower at the top, that's where there is the most tension 
