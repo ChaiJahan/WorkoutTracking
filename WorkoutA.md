@@ -48,11 +48,12 @@ AMRAP
 | 1   |  8    | 25     |
 | 2.1 |  5    | 25     |
 | 2.2 |  3    | 20     |
-| 3   |  8    | 20     |
+| 3   |  6    | 20     |
 | 4   |  7    | 20     |
 
 ##### Notes
-45 degree angle on bench
+- 45 degree angle on bench
+- feel weaker probably because my form on neutral grip pullups allowed me to use slightly more arms
 
 ## DB Lateral Raises (Normal Form)
 4 sets
